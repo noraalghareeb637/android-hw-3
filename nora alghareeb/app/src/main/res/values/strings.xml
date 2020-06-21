@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Grade calculater</string>
+    <string name="grade_calculater">Grade calculater</string>
+    <string name="quizes_15">Quizes 15%</string>
+    <string name="homework_25">Homework 25%</string>
+    <string name="mid_terms_30">Mid terms 30%</string>
+    <string name="final_30">Final 30%</string>
+    <string name="calculate">CALCULATE</string>
+</resources>
